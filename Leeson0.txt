@@ -1,0 +1,11 @@
+print ((9 ** 0.5) * 5)                                             # 1st program
+
+print ((9.99 > 9.98) and (1000 != 1000.1))                         # 2st program
+
+print ((1234 % 1000) , (5678 % 5000))
+print ((234 // 10) , (678 // 10))
+print (23 + 67)                                                    # 3st program
+
+int ("a" == 13)
+int ("b" == 42)
+print ((bool ((13.42 == "a.b") or (42.13 == "b.a"))))              # 4st program
